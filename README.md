@@ -1,6 +1,6 @@
 <!-- 动态打字标题 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&center=true&width=435&lines=Hi%2C+I'm+Fengjun+Li!;Welcome+to+my+GitHub+profile!;Coding+%3D+Fun+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&center=true&width=435&lines=Hi%2C+I'm+Fengjun+Li!;lines=Welcome+to+my+GitHub+profile!;Coding+%3D+Fun+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 ---
