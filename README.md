@@ -12,12 +12,6 @@
 - 💻 Experience with **HTML**, **JavaScript**, and **Git**
 - 📬 Email: [LIJIAMIN38123588@outlook.com](mailto:LIJIAMIN38123588@outlook.com)
 - 💡 Fun Fact: I enjoy building systems from scratch and solving problems with code
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fengjun-zizi&show_icons=true&theme=tokyonight)
   
 ---
 
