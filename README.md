@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a **Management Information Systems** student at President University  
+- 🎓 I'm a **Management Information Systems** student
 - 💡 Passionate about **math**, **problem-solving**, and **coding cool stuff**  
 - 🔭 Currently learning **PHP**, **MySQL**, and **Full-Stack Development**  
 - 💻 Familiar with **C/C++**, **Python**, **Java**, **HTML**, **JavaScript**, and **Git**  
